@@ -1,0 +1,7 @@
+*.qml 		text
+*.pri		text
+*.pro		text
+*.pro.user	text
+*.qm 		binary
+*.ts		text
+*.qrc		text
